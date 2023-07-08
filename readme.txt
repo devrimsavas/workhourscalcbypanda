@@ -1,0 +1,1 @@
+one of my friends needed a simple stuff that calculates workers wage from excel. This small routine takes 2 colums from excel and calculate wages. Change hourly_wage as you wish. This simple codes also show how to use basic panda and delta time. 
